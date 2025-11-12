@@ -139,5 +139,5 @@ Despite fluctuations, the insights suggest strong temporal and spatial trends th
 ## 🧑‍💻 Author
 
 Esther Adewumi
-Data Analyst | Excel Enthusiast | Crime Data Researcher
+Data Analyst | Excel Enthusiast | Data Analyst
 📧 
