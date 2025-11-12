@@ -16,7 +16,7 @@
 ## 🧰 Tools Used
 
 Tool	Purpose
-. Microsoft Excel	Data cleaning, analysis, and dashboard creation
-. Pivot Tables	Summarizing large datasets
-. Slicers	Enabling interactive filtering by year, month, day, and hour
-. Charts & Graphs	Visual representation of trends and comparisons
+1. Microsoft Excel	Data cleaning, analysis, and dashboard creation
+2. Pivot Tables	Summarizing large datasets
+3. Slicers	Enabling interactive filtering by year, month, day, and hour
+4. Charts & Graphs	Visual representation of trends and comparisons
