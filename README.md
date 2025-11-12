@@ -32,6 +32,10 @@ d. Cities Covered: 21 within the Los Angeles region.
 ### Crime Count
 Crime counts rose from 151,525 (2020) to a peak of 179,175 (2022), before declining sharply in 2024–2025.
 2025 shows an extreme drop (data likely incomplete or still being updated due to the fact the year is till in progress).
+<img width="728" height="394" alt="image" src="https://github.com/user-attachments/assets/4713ff88-09a6-4255-b9cc-e7f6d936fa78" />
+
+
+
 
 ### Top Crime Months:
 January (69,141), March (65,172), February (64,758), April (61,513), July (61,140) — crime peaks in early and mid-year.
