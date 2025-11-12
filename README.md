@@ -99,69 +99,45 @@ Most major crime types (assault, theft, vandalism) peaked between 2021–2022 an
 
 
 
-🔍 Observations & Recommendations
+## 🔍 Observations & Recommendations
 
 1. Temporal Patterns:
-
 Crimes are more frequent on Fridays and Saturdays, particularly midday to evening.
 
 Targeted patrols during these periods could deter crime.
 
-
-
 2. Location Focus:
-
 Central, Southwest, and 77th Street divisions consistently report higher crime counts — should be focus areas for safety measures.
 
-
-
 3. Crime Type Trends:
-
 Theft and Assault-related crimes dominate; public education and neighborhood watch programs may reduce these offenses.
 
-
-
 4. Gender Insights:
-
 Males are slightly more affected, but both genders experience high victimization levels — tailored prevention awareness may help.
 
-
-
 5. Future Work:
-
 Integrate geo-mapping (using Power BI or Tableau) for spatial visualization.
 
 Expand analysis to include crime resolution rates and suspect demographics.
 
 
 
-
-
----
-
-📂 Files Included
+## 📂 Files Included
 
 File	Description
 
-LA_Crime_Dataset_2020_2025.xlsx	Cleaned dataset used for analysis
-LA_Crime_Overview_Dashboard.png	Overview dashboard image
-LA_Crime_Analysis_Dashboard.png	Detailed analysis dashboard image
-README.md	Project documentation (this file)
 
 
 
----
-
-📜 Conclusion
+## 📜 Conclusion
 
 This analysis provides a data-driven perspective on Los Angeles crime patterns from 2020–2025.
 Despite fluctuations, the insights suggest strong temporal and spatial trends that can guide police resource allocation, community safety programs, and policy planning.
 
 
----
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Esther Adewumi
 Data Analyst | Excel Enthusiast | Crime Data Researcher
-📧 [Insert Email or LinkedIn link here]
+📧 
