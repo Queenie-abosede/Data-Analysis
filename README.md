@@ -29,11 +29,11 @@ Tool	Purpose
 
 ## 🔍 Data Cleaning and Preparation
 The dataset was cleaned and transformed using Power Query in Excel. Key steps included:
-a. Column Renaming for clarity (e.g., Date Rptd → Date Reported)
-b. Date & Time Formatting: Converted time values like 845 to 08:45 AM
-c. Handling Missing Values: Replaced nulls in Victim_Sex and Victim_Race with "Unknown"
-d. Add new column to extract Years, Month, Days and Time
-e. Delete Victim Age with Negative sign (such as -1, -2 etc)
+1. Column Renaming for clarity (e.g., Date Rptd → Date Reported)
+2. Date & Time Formatting: Converted time values like 845 to 08:45 AM
+3. Handling Missing Values: Replaced nulls in Victim_Sex and Victim_Race with "Unknown"
+4. Add new column to extract Years, Month, Days and Time
+5. Delete Victim Age with Negative sign (such as -1, -2 etc)
 
 ###
 *. No Duplicates, No removal of any columns
