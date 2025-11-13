@@ -36,17 +36,16 @@ The dataset was cleaned and transformed using Power Query in Excel. Key steps in
 5. Delete Victim Age with Negative sign (such as -1, -2 etc)
 
 ###
-*. No Duplicates, No removal of any columns
-*. Loaded Clean Data into Excel for analysis and visualization
+ No Duplicates, No removal of any columns. Loaded Clean Data into Excel for analysis and visualization
 
 
 ## 📊 Dashboard 1 – Crime Overview (2020–2025)
 
 ### KPI:
-a. Total Crimes: 735,632 incidents reported between 2020 and 2025.
-b. Average Crimes per Day: 105,090 per day (across 5 years)
-c. % Change (2023 vs 2024): A notable decline of 54.45%, indicating possible enforcement effectiveness or data reduction factors.
-d. Cities Covered: 21 within the Los Angeles region.
+1. Total Crimes: 735,632 incidents reported between 2020 and 2025.
+2. Average Crimes per Day: 105,090 per day (across 5 years)
+3. % Change (2023 vs 2024): A notable decline of 54.45%, indicating possible enforcement effectiveness or data reduction factors.
+4. Cities Covered: 21 within the Los Angeles region.
 
 ### Crime Count
 Crime counts rose from 151,525 (2020) to a peak of 179,175 (2022), before declining sharply in 2024–2025.
